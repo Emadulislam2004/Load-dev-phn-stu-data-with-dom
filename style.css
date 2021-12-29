@@ -1,0 +1,7 @@
+.boxItem { width: 48%; float: left; padding: 20px; border: 1px solid rgb(203, 203, 203); margin: 11px; }
+.boxItem img { border-radius: 100%; }
+.boxImg { width: 50%; float: left; overflow: hidden !important; }
+.boxText { float: right; }
+.boxText h6 { width: 250px; height: 50px; box-shadow: rgba(131, 130, 130, 0.1) 2px 2px 28px 2px; border-radius: 6px; text-transform: capitalize; margin-left: 25px; justify-content: center; font-weight: 500; transition: all 0.5s ease 0s; }
+.boxText h6:hover {background-color: #00000080;color: white;}
+.v_align { display: flex; align-items: center; }
